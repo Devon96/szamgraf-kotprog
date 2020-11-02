@@ -1,0 +1,10 @@
+Palota Alap kocka 
+az alapterület és forma kialakítása e vel és átméretezésekkel
+kiemeltem és kijebb huztam egy kicsivel a második emeletet a ház mindkét részén
+az emeletekből kiemeltem a tetőket és az edge-k áthelyezésével "tető" alakot adtam nekik
+egy másik négyzetből kialakítottam az ablakokat. Egy hengerből a henger alakú toronyszobát.
+Egy másik nyégyzetből az ablakok alatti oszlopokat, kéményt
+Végül több téklatestből a fedett részt a kastély elött és ugyanebből a tartóelemeit.
+végül szintén külön kocka obiektumokból az ajtót és a feljárót.
+Az ajtó teteje és a feljátó is le lett kerekítve.
+végül minden obiektumot jösszekapcsoltam

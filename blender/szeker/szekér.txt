@@ -1,0 +1,8 @@
+A kerékből kiindulva azt leduplikálva és elhelyeztem egymástól 2 m távolságra.
+egy hengert átméretezve és a kerekek közepébe helyezve elkészült a szekér tengelye
+
+A szekér teste egy kocka mely átméretezés után a felső face I vel ossze lett nyomva és az igy kialakult face E vel be lett nyomva.
+A szekér elejét alkozó face x tengelyen történő forfatással alakult ki amihez hozzáidazítottam a belső oldal élét.
+A szekér alsó face-t x tengely felé összenyomtam.
+A rudak a szekér elején a tengely kétszeri lemásolásával és áthelyezésével lettek megoldva
+végül minden obiektumot kijelölve egyesítettem és az egészet x tengelyen elforgattam

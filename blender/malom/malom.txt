@@ -1,0 +1,6 @@
+Kiindulási alap egy 8 szög alakú henger
+átméretezés után a felső face-t valamennyire összenyomtam majd kiextrudáltam az igy kaputt face-t megnöveltem, ctrl + I vel összenyomtam majd az igy kapott közápső kis face-t z tengelye felemeltem.
+
+A színtérhez hozzáadtam egy hengert majd elforgatva, átméretezve, áthelyezve és a meglávő obiektumhoz kapcsolva készült el a malom kiálló tengelye.
+
+A malom egyik oldalához új éleket adva és azokat kiextrudálva készítettem el az ajtót és az az alatti részt. Az ajtó tetelyét Ctrl+B vel lekerekítettem.

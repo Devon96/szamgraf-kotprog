@@ -1,0 +1,10 @@
+Kocka
+
+scale
+
+felső face felosztása és a szélsők kiemelése
+
+szélső facek felosztása és minden második kiemelése
+
+
+

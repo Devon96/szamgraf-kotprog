@@ -1,0 +1,5 @@
+Kapu:
+
+Egy kockábol kialakítottam egy olyan alakot amivel atvágom az előzőleg elkészített falat.
+Az alsó facehez hozzáadva 4 élet majd a belső facet feljebb toltam és azt is kettéosztottam.
+a középső éset Ctrl + B + kördővel lekerekítettem

@@ -1,0 +1,5 @@
+Kerék elkészítése:
+Alapja egy henger melynek csak a felső facet hagytam meg Ctrl+I vel benyomtam és körbe csak minden harmadik facet hagyatm meg a többit kitötöltem
+A kerék közepén memaradt kört Ctrl+i vel menyomtam majd a közepét kitöröltem.
+Az összes face-t kijelölve Ctrl+E vel vastagságot adtam a keréknek.
+A kerék kilső 2 dimenzios faceinek Alt+S el adtam vastagságo.

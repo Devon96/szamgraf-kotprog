@@ -1,0 +1,12 @@
+Alap obiektum egy kocka
+Átméreteztem a ház alsó tészének a méreteire
+i vel kijjebtoltam a szélét
+g vel felemeltem az így kapott új facet majd e vel ki extrude-áltam belőle a felső emeletet
+a legfelső emeletet felsztva és az így kapott új élet felemelve alakítottam ki a tetőt
+A tető egyki oldalát 3 éllel felosztottam majd átlóssan hozzáadtam két élet.
+A középső él szélső pontjét felemelve kialakult a tető erkély része.
+ezt és az felső emelet egy részét kiexkrúdáltam.
+Az alsó emelethez 4 élet adva majd azokat áthelyejve és kiexkrúdálva megjaptam az szlopokat.
+a bejárati rész újabb élek hozzáadásával facek kiextrudálásával és azok tobbbi extrudálásával jöttel kétre.
+A bejárat tetelye a kihúzott elem kilső faceének áthelyezésébel, a feljáróegy él ctrl+B-s letőrésével.
+A kémény hasonló módon élek elhelyezésével és face kihúzásával, áthelyezésével, kiszélesítésével és újbóli kihúzásával.
